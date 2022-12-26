@@ -1,0 +1,30 @@
+.product-cart{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-top: 40px;
+    border-radius: 10px;
+
+}
+.home-header{
+    border: 2px solid goldenrod;
+    padding: 30px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 20px;
+    align-items: center;
+}
+.home-header img{
+    width: 200px;
+    height: 100px;
+    background-position: center;
+}
+.home-header h4{
+    padding-right: 40px;
+}
+.home{
+    margin-bottom: 4rem;
+}

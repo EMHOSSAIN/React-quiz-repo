@@ -1,0 +1,19 @@
+.Cart-product{
+    border: 2px solid gold;
+    background-color: darkcyan;
+}
+.Cart-product img{
+    width: 100%;
+}
+.Cart-product button{
+    width: 100%;
+    background-color: orange;
+    padding: 10px 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
+
+.Cart-product button:hover{
+   padding: 12px 7px;
+}

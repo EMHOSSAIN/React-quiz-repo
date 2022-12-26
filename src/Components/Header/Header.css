@@ -1,0 +1,24 @@
+
+.header-link{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    border-radius: 5px;
+    padding: 10px 5px;
+   position: static;
+    
+}
+.header-link h3{
+    color: white;
+    margin-left: 10px;
+}
+.header-link a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    margin-right: 10px;
+   
+
+}
+
